@@ -1,0 +1,1 @@
+head -n 25000000 positionData.raw> positionData1.4g.raw
